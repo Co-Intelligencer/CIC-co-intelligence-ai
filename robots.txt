@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://co-intelligencer.github.io/CIC-co-intelligence-ai/sitemap.xml
